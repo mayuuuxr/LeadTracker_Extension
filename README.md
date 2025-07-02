@@ -19,7 +19,7 @@ Lead Tracker is a lightweight and beginner-friendly Chrome extension that allows
 📦 Installation
 
 1. Clone or download this repository:
-   git clone https://github.com/yourusername/lead-tracker-extension.git
+   git clone https://github.com/mayuuuxr/lead-tracker-extension.git
 2.Open Google Chrome and navigate to:
 
   chrome://extensions
